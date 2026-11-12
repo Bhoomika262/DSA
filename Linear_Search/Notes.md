@@ -1,0 +1,3 @@
+- Traverse through the array from index 0 to n until the desired value is found.
+- Time Complexity: O(n)
+- 'n' comparisons in worst case.
